@@ -15,7 +15,7 @@ O objetivo deste projeto é mostrar como utilizar goroutines e canais para criar
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/go-concurrency-live-code.git
+    git clone https://github.com/hmarsolla/go-concurrency-live-code.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
